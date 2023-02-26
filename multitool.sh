@@ -26,9 +26,6 @@ else
     nick_name="noob"
 fi
 
-# Load settings from file
-load_settings
-
 #Zer0 Art
 art="
                       ##     ## ##     ## ##       ######## ####    ########  #######   #######  ##       
